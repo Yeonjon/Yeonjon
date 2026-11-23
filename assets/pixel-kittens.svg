@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="104" viewBox="0 0 160 52" shape-rendering="crispEdges">
+  <title>两只像素小猫和一颗爱心</title>
+  <defs>
+    <g id="kitten">
+      <path d="M2 24h4V8h8v4h4v4h20v-4h4V8h8v16h4v16h-4v4h-8v4H14v-4H6v-4H2z" fill="#292540"/>
+      <path d="M6 24h4V12h4v4h4v4h20v-4h4v-4h4v12h4v16h-8v4H14v-4H6z" fill="currentColor"/>
+      <path d="M14 28h4v8h-4zm24 0h4v8h-4zm-14 8h8v4h-8z" fill="#292540"/>
+      <path d="M10 36h6v4h-6zm30 0h6v4h-6z" fill="#ff86aa"/>
+    </g>
+  </defs>
+  <use href="#kitten" x="8" color="#aef1d8"/>
+  <use href="#kitten" x="96" color="#dcccff"/>
+  <path d="M70 18h8v4h4v-4h8v4h4v8h-4v4h-4v4h-4v4h-4v-4h-4v-4h-4v-4h-4v-8h4z" fill="#ff82a4"/>
+  <path d="M74 6h4v4h-4zm10 0h4v4h-4z" fill="#ffd477"/>
+</svg>
