@@ -1,18 +1,23 @@
 ![像素街机横幅，青绿色终端、珊瑚橙像素和星星](assets/arcade-banner.svg)
 
-# 嘿，我是 Zaireee 👋
+<p align="center"><strong>👋 你好，我是 Zaireee，欢迎来我的 GitHub 小角落。</strong></p>
 
-把好奇心变成小实验，把小实验做成能用的东西。
+## ABOUT ME · 关于我
 
-## 🕹️ 最近在玩
+### ✨ 一点自我介绍
 
-- 🔧 **在做** · [写一件你最近在做的事]
-- 🌱 **在学** · [写一个你正在尝试的方向]
-- 🧰 **常用** · `工具 A` · `工具 B` · `工具 C`
+我把这个主页当作一份开放的开发笔记。这里会慢慢收录正在做的项目、学到的新东西，以及想动手试试的点子。欢迎来交流，一起把点子做出来。
 
-## 🚀 精选作品
+### 📬 找到我
 
-- **[项目名称](https://github.com/USERNAME/PROJECT_ONE)** · [一句话说清它能帮谁做什么]
-- **[项目名称](https://github.com/USERNAME/PROJECT_TWO)** · [介绍一个值得点进去看的功能]
+[GitHub · @Yeonjon](https://github.com/Yeonjon)
 
-如果有你感兴趣的项目，欢迎来仓库的 Issues 聊聊。
+**QQ** · `944807194@qq.com`
+
+<p align="center"><img src="assets/pixel-kittens.svg" width="280" alt="两只像素小猫和一颗爱心" /></p>
+
+<!-- 有想公开的邮箱、博客或社交账号时，可以加在这里。 -->
+
+## CONTRIBUTIONS · 提交轨迹
+
+[查看我的 GitHub 贡献记录 ↗](https://github.com/Yeonjon#contribution-activity)
