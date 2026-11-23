@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="315" viewBox="0 0 1200 315" role="img" aria-labelledby="title">
+  <title id="title">Code Playground</title>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#34416a" stroke-opacity=".45"/>
+    </pattern>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#121934"/>
+      <stop offset="1" stop-color="#282455"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="315" rx="22" fill="url(#background)"/>
+  <rect x="14" y="14" width="1172" height="287" rx="12" fill="url(#grid)" stroke="#52608c"/>
+  <path d="M47 57V35H69 M1131 280H1153V258" fill="none" stroke="#80f3cc" stroke-width="4"/>
+  <g font-family="monospace">
+    <text x="72" y="101" fill="#80f3cc" font-size="23" letter-spacing="5">PRESS START</text>
+    <text x="68" y="183" fill="#f4f4ff" font-size="66" font-weight="bold">Code Playground</text>
+    <text x="73" y="233" fill="#c6cbee" font-size="23">Build. Tinker. Share.</text>
+  </g>
+  <path d="M888 80H1096V96H1112V222H1096V238H888V222H872V96H888Z" fill="#11162d" stroke="#80f3cc" stroke-width="5"/>
+  <path d="M876 113H1108" stroke="#80f3cc" stroke-width="4"/>
+  <g fill="#ffa38c">
+    <rect x="894" y="93" width="8" height="8"/>
+    <rect x="910" y="93" width="8" height="8"/>
+  </g>
+  <path d="M924 146L950 169L924 192M968 193H1016" fill="none" stroke="#80f3cc" stroke-width="9"/>
+  <path d="M1143 56H1151V68H1163V76H1151V88H1143V76H1131V68H1143Z" fill="#ffe18a"/>
+  <path d="M845 219H855V229H865V239H855V249H845V239H835V229H845Z" fill="#ffa38c"/>
+  <path d="M1052 171H1064V183H1076V195H1064V207H1052V195H1040V183H1052Z" fill="#c7a7ff"/>
+</svg>
